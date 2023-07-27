@@ -18,3 +18,22 @@ O deploy de toda a arquitetura na AWS utilizando os serviços AWS Elastic Beanst
 Implementar um básico de rastreabilidade de requisições entre microsserviços com logs nas APIs, IDs de requisições
 e iremos visualizar nossa rastreabilidade através dos logs da aplicação.
 </p>
+<h2>Stack</h2>
+<ul>
+  <li>Java 11</li>
+  <li>Spring Boot 2</li>
+  <li>Javascript ES6</li>
+  <li>Node.js 14</li>
+  <li>ES6 Modules</li>
+  <li>Express.js</li>
+  <li>MongoDB (Container e Cloud MongoDB)</li>
+  <li>API REST</li>
+  <li>PostgreSQL (Container)</li>
+  <li>RabbitMQ (Container e CloudAMQP)</li>
+  <li>Docker</li>
+  <li>docker-compose</li>
+  <li>JWT</li>
+  <li>Spring Cloud OpenFeign</li>
+  <li>Axios</li>
+</ul>
+
