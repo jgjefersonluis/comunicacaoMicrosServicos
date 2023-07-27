@@ -1,4 +1,7 @@
- Projeto de comunicação entre microsserviços e como aplicá-las. Iremos criar 3 APIs, duas delas com Node.js, MongoDB, Mongoose, Sequelize, PostgreSQL e JWT para autenticação. Será craida uma API com Java 11 utilizando Spring Boot, PostgreSQL, Spring Data JPA, Spring Cloud OpenFeign e JWT, realizando a comunicação e integração entre essas duas tecnologias.
+<h1>Comunicação entre microsserviços</h1>
+
+<p> Como aplicá-las? </p>
+Iremos criar 3 APIs, duas delas com Node.js, MongoDB, Mongoose, Sequelize, PostgreSQL e JWT para autenticação. Será craida uma API com Java 11 utilizando Spring Boot, PostgreSQL, Spring Data JPA, Spring Cloud OpenFeign e JWT, realizando a comunicação e integração entre essas duas tecnologias.
 
 O RabbitMQ para a comunicação via filas de mensagens utilizando o protocolo AMQP com o intuito de criar uma comunicação assíncrona entre os serviços. Também utilizaremos comunicação síncrona entre aplicações, chamadas a clients HTTP entre as APIs, integrando-as com as tecnologias FeignClient (Spring Boot) e Axios (Node.js).
 
