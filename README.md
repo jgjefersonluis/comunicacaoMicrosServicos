@@ -2,7 +2,9 @@
 
 <p> Como aplicá-las? </p>
 <p>
-Criar 3 APIs, duas delas com Node.js, MongoDB, Mongoose, Sequelize, PostgreSQL e JWT para autenticação.
+Criar 3 APIs (Auth-API: API de Autenticação com Node.js 14, Express.js, Sequelize, PostgreSQL, JWT e Bcrypt.
+Sales-API: API de Vendas com Node.js 14, Express.js, MongoDB, Mongoose, validação de JWT, RabbitMQ e Axios para clients HTTP.
+Product-API: API de Produtos com Java 11, Spring Boot, Spring Data JPA, PostgreSQL, validação de JWT, RabbitMQ e Spring Cloud OpenFeign para clients HTTP), duas delas com Node.js, MongoDB, Mongoose, Sequelize, PostgreSQL e JWT para autenticação.
 Será craida uma API com Java 11 utilizando Spring Boot, PostgreSQL, Spring Data JPA, Spring Cloud OpenFeign e JWT, 
 realizando a comunicação e integração entre essas duas tecnologias.</p>
 
